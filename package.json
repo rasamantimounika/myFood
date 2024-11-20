@@ -1,0 +1,38 @@
+{
+  "name": "my-swiggy.com",
+  "version": "1.0.0",
+  "description": "this is food app",
+  "scripts": {
+    "start":"parcel index.html",
+    "build":"parcel build index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rasamantimounika/myFood.git"
+  },
+  "keywords": [
+    "react",
+    "food",
+    "App",
+    "mounika"
+  ],
+  "author": "mounika",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rasamantimounika/myFood/issues"
+  },
+  "homepage": "https://github.com/rasamantimounika/myFood#readme",
+  "devDependencies": {
+    "parcel": "^2.13.0",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "browsersList":[
+    "last 2 versions"
+  ]
+
+}
